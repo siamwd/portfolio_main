@@ -45,7 +45,7 @@ export default function Home() {
               I build
             </span>
 
-            <span className="relative block translate-y-[6px] h-[42px] w-full overflow-hidden text-[#65f6d2] sm:h-[50px] sm:w-[420px]">
+            <span className="relative block translate-y-[6px] h-[42px] w-full overflow-hidden text-[#65f6d2] sm:h-[50px] sm:w-[520px]">
               <span className="absolute left-0 top-0 w-full animate-build-text opacity-0">
                 Full-Stack Applications
               </span>
