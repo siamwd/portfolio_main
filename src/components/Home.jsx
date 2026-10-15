@@ -65,7 +65,7 @@ export default function Home() {
           </div>
 
           {/* Description */}
-          <p className="max-w-[680px] text-[12px] leading-[1.4] text-[#8b96a6] sm:text-[14px]">
+          <p className="max-w-[680px] text-[14px] leading-[1.4] text-[#8b96a6] sm:text-[14px] pt-2">
             Building modern web applications with clean UI, scalable architecture, REST APIs, and robust backend solutions using Python, Django & React.
 
           </p>
