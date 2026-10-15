@@ -45,20 +45,20 @@ export default function Home() {
               I build
             </span>
 
-            <span className="relative block translate-y-[6px] h-[42px] w-full overflow-hidden text-[#65f6d2] sm:h-[50px] sm:w-[520px]">
-              <span className="absolute left-0 top-0 w-full animate-build-text opacity-0">
+            <span className="relative block h-[42px] w-full translate-y-[6px] overflow-hidden text-[clamp(20px,7vw,29px)] text-[#65f6d2] sm:h-[50px] sm:w-[min(520px,55vw)] sm:text-[clamp(26px,2.6vw,40px)]">
+              <span className="absolute left-0 top-0 w-full whitespace-nowrap animate-build-text opacity-0">
                 Full-Stack Applications
               </span>
 
-              <span className="absolute left-0 top-0 w-full animate-build-text animation-delay-2200 opacity-0">
+              <span className="absolute left-0 top-0 w-full whitespace-nowrap animate-build-text animation-delay-2200 opacity-0">
                 Django REST APIs
               </span>
 
-              <span className="absolute left-0 top-0 w-full animate-build-text animation-delay-4400 opacity-0">
+              <span className="absolute left-0 top-0 w-full whitespace-nowrap animate-build-text animation-delay-4400 opacity-0">
                 Modern React UIs
               </span>
 
-              <span className="absolute left-0 top-0 w-full animate-build-text animation-delay-6600 opacity-0">
+              <span className="absolute left-0 top-0 w-full whitespace-nowrap animate-build-text animation-delay-6600 opacity-0">
                 Scalable Web Solutions
               </span>
             </span>
